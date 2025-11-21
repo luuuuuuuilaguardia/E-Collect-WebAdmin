@@ -5,3 +5,6 @@ Intelligent IoT-powered e-waste collection system with AI object recognition, mo
 
 E-COLLECT MOBILE REPO
 https://github.com/luuuuuuuilaguardia/E-Collect-Mobile/tree/main
+
+E-COLLECT SERVER (FOR DEMO / MVP ONLY) HACKATHON PURPOSES
+https://github.com/luuuuuuuilaguardia/E-Collect-ServerSide
